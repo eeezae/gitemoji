@@ -1,4 +1,4 @@
-|代码|图形|中文解释|英文解释|
+|Code|Emoji|Chines|English|
 |-|-|-|-|
 | `:art:` | 🎨 |优化代码结构或排版|  Improving structure / format of the code. |
 | `:zap:` | ⚡️ |性能调优|  Improving performance. |
